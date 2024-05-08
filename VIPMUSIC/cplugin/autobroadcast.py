@@ -11,7 +11,7 @@ from VIPMUSIC.core.mongo import mongodb, pymongodb
 
 AUTO_GCAST = True
 
-START_IMG_URLS = ""
+START_IMG_URLS = "https://graph.org/file/8497b3052bf3da8137d2a.jpg"
 
 MESSAGES = f"""
 ᴛɪʀᴇᴅ ᴏғ ᴘʀᴏᴍᴏᴛɪᴏɴᴀʟ ᴀᴅᴠᴇʀᴛɪꜱᴇᴍᴇɴᴛ ᴘᴏꜱᴛꜱ ᴏɴ ᴏᴛʜᴇʀ ʙᴏᴛꜱ?
@@ -26,7 +26,7 @@ MESSAGES = f"""
 ↬ ʟᴀɢ ꜰʀᴇᴇ
 
 🔧 ᴠɪꜱɪᴛ ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ 
-↳ @BuG_x_Support  ғᴏʀ ᴍᴏʀᴇ !
+↳ @Flames_xD  ғᴏʀ ᴍᴏʀᴇ !
 
 **"""
 
@@ -52,8 +52,8 @@ BUTTON = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                "• ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ •",
-                url=f"https://t.me/Flames_xD",
+                "• ᴋɪᴅɴᴀᴘ ᴍᴇ ʙᴀʙʏ •",
+                url=f"https://t.me/BuG_Musix_Bot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
             )
         ]
     ]
