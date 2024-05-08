@@ -41,7 +41,7 @@ async def repo(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/THE-VIP-BOY-OP/VIP-MUSIC"
+                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/SH251204?tab=repositories"
                     )
                 ]
             ]
@@ -76,7 +76,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/THE-VIP-BOY-OP/VIP-MUSIC"
+                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/SH251204?tab=repositories"
                     )
                 ]
             ]
