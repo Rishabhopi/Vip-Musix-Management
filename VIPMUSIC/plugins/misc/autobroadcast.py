@@ -8,25 +8,29 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 AUTO_GCASTS = f"{AUTO_GCAST}" if AUTO_GCAST else False
 
-START_IMG_URLS = "https://graph.org/file/760169f7f8dd536c50793.jpg"
+START_IMG_URLS = "https://graph.org/file/8497b3052bf3da8137d2a.jpg"
 
-MESSAGES = f"""**ㅤㅤㅤ⚠️⚠️⚠️⚠️⚠️📡
+MESSAGES = f"""**ᴛɪʀᴇᴅ ᴏғ ᴘʀᴏᴍᴏᴛɪᴏɴᴀʟ ᴀᴅᴠᴇʀᴛɪꜱᴇᴍᴇɴᴛ ᴘᴏꜱᴛꜱ ᴏɴ ᴏᴛʜᴇʀ ʙᴏᴛꜱ?
 
-❤️सबसे ज्यादा पैसा देने वाला Platform पूरी दुनिया को हिला के रख दिया MISS मत करना⭐️
+ᴛʀʏ - 🐾 ˹ʙᴜɢ ✘ ϻʊsɪx ˼ 
+↳ @BuG_Musix_Bot   🐾
 
-✅Game  को INVITE करो और 10,000₹ से 50,000₹ रोज कमाओ
+↬ ᴀᴅꜱ & ᴘʀᴏᴍᴏᴛɪᴏɴꜱ ғʀᴇᴇ.
+↬ ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴜꜱɪᴄ ᴘʟᴀʏᴇʀ
+↬ 24x7 ᴜᴘᴛɪᴍᴇ.
+↬ ꜱᴜᴘᴘᴏʀᴛꜱ ᴍᴜʟᴛɪ-ʟᴀɴɢᴜᴀɢᴇ /  ᴀʀᴀʙɪᴄ - ʜɪɴᴅɪ - ᴘᴜɴᴊᴀʙɪ.
+↬ ʟᴀɢ ꜰʀᴇᴇ
 
-🫂Link:- https://91club.game/#/register?invitationCode=65847105926 ✅
-
-Agent: @Jamesadmin91club💙**"""
+🔧 ᴠɪꜱɪᴛ ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ 
+↳ @Flames_xD  ғᴏʀ ᴍᴏʀᴇ !"""
 
 
 BUTTONS = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                "๏ Click & Get ₹100 ๏",
-                url=f"https://91club.game/#/register?invitationCode=65847105926",
+                "• ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ •",
+                url=f"https://t.me/Flames_xD",
             )
         ]
     ]
@@ -46,8 +50,8 @@ BUTTON = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                "๏ ᴋɪᴅɴᴀᴘ ᴍᴇ ๏",
-                url=f"https://t.me/TG_VC_BOT?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
+                "• ᴋɪᴅɴᴀᴘ ᴍᴇ ʙᴀʙʏ •",
+                url=f"https://t.me/BuG_Musix_Bot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
             )
         ]
     ]
