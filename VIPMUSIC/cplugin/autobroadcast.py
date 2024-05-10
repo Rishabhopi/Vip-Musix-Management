@@ -11,13 +11,13 @@ from VIPMUSIC.core.mongo import mongodb, pymongodb
 
 AUTO_GCAST = True
 
-START_IMG_URLS = "https://graph.org/file/8497b3052bf3da8137d2a.jpg"
+START_IMG_URLS = "https://graph.org/file/595c0e3e44126d1fed1d7.jpg"
 
 MESSAGES = f"""
 ᴛɪʀᴇᴅ ᴏғ ᴘʀᴏᴍᴏᴛɪᴏɴᴀʟ ᴀᴅᴠᴇʀᴛɪꜱᴇᴍᴇɴᴛ ᴘᴏꜱᴛꜱ ᴏɴ ᴏᴛʜᴇʀ ʙᴏᴛꜱ?
 
-ᴛʀʏ - 🐾 ˹ʙᴜɢ ✘ ϻʊsɪx ˼ 
-↳ @BuG_Musix_Bot   🐾
+ᴛʀʏ - 🐾 ˹ϻʊsɪx ˼ 
+↳ @Ur_music_robot   🐾
 
 ↬ ᴀᴅꜱ & ᴘʀᴏᴍᴏᴛɪᴏɴꜱ ғʀᴇᴇ.
 ↬ ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴜꜱɪᴄ ᴘʟᴀʏᴇʀ
@@ -26,7 +26,7 @@ MESSAGES = f"""
 ↬ ʟᴀɢ ꜰʀᴇᴇ
 
 🔧 ᴠɪꜱɪᴛ ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ 
-↳ @Flames_xD  ғᴏʀ ᴍᴏʀᴇ !
+↳ @Ur_support07  ғᴏʀ ᴍᴏʀᴇ !
 
 **"""
 
@@ -36,13 +36,13 @@ BUTTONS = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(
                 "• ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ •",
-                url=f"https://t.me/Flames_xD",
+                url=f"https://t.me/ur_rishu_143",
             )
         ]
     ]
 )
 
-MESSAGE = f"""**ᴀᴅᴅ ~ @BuG_Musix_Bot ~  ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ 💞
+MESSAGE = f"""**ᴀᴅᴅ ~ @Ur_rishu_143 ~  ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ 💞
 
 🥀 ᴢᴇʀᴏ ᴅᴏᴡɴᴛɪᴍᴇ & ʟᴀɢꜰʀᴇᴇ ᴍᴜꜱɪᴄꜱ 🤍
 
@@ -53,7 +53,7 @@ BUTTON = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(
                 "• ᴋɪᴅɴᴀᴘ ᴍᴇ ʙᴀʙʏ •",
-                url=f"https://t.me/BuG_Musix_Bot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
+                url=f"https://t.me/ur_music_robot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
             )
         ]
     ]
