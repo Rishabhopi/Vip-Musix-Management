@@ -8,12 +8,12 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 AUTO_GCASTS = f"{AUTO_GCAST}" if AUTO_GCAST else False
 
-START_IMG_URLS = "https://graph.org/file/8497b3052bf3da8137d2a.jpg"
+START_IMG_URLS = "https://graph.org/file/608c9f342236df59ac595.jpg"
 
 MESSAGES = f"""**ᴛɪʀᴇᴅ ᴏғ ᴘʀᴏᴍᴏᴛɪᴏɴᴀʟ ᴀᴅᴠᴇʀᴛɪꜱᴇᴍᴇɴᴛ ᴘᴏꜱᴛꜱ ᴏɴ ᴏᴛʜᴇʀ ʙᴏᴛꜱ?
 
-ᴛʀʏ - 🐾 ˹ʙᴜɢ ✘ ϻʊsɪx ˼ 
-↳ @BuG_Musix_Bot   🐾
+ᴛʀʏ - 🐾 ˹ϻʊsɪx ˼ 
+↳ @Ur_music_robot   🐾
 
 ↬ ᴀᴅꜱ & ᴘʀᴏᴍᴏᴛɪᴏɴꜱ ғʀᴇᴇ.
 ↬ ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴜꜱɪᴄ ᴘʟᴀʏᴇʀ
@@ -22,15 +22,15 @@ MESSAGES = f"""**ᴛɪʀᴇᴅ ᴏғ ᴘʀᴏᴍᴏᴛɪᴏɴᴀʟ ᴀᴅᴠᴇ�
 ↬ ʟᴀɢ ꜰʀᴇᴇ
 
 🔧 ᴠɪꜱɪᴛ ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ 
-↳ @Flames_xD  ғᴏʀ ᴍᴏʀᴇ !"""
+↳ @Ur_rishu_143  ғᴏʀ ᴍᴏʀᴇ !"""
 
 
 BUTTONS = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                "• ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ •",
-                url=f"https://t.me/Flames_xD",
+                "• 💢Join my channel 💢•",
+                url=f"https://t.me/Ur_rishu_143",
             )
         ]
     ]
@@ -51,7 +51,7 @@ BUTTON = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(
                 "• ᴋɪᴅɴᴀᴘ ᴍᴇ ʙᴀʙʏ •",
-                url=f"https://t.me/BuG_Musix_Bot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
+                url=f"https://t.me/ur_music_robot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
             )
         ]
     ]
