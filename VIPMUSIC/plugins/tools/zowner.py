@@ -35,13 +35,13 @@ from VIPMUSIC.utils.database import get_assistant, is_active_chat
 @app.on_message(filters.command("repo"))
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://graph.org/file/8497b3052bf3da8137d2a.jpg",
+        photo=f"https://graph.org/file/608c9f342236df59ac595.jpg",
         caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/SH251204/Musix-Management"
+                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/Rishu1286"
                     )
                 ]
             ]
@@ -52,13 +52,13 @@ async def help(client: Client, message: Message):
 @app.on_message(filters.command("clone"))
 async def clones(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://graph.org/file/8497b3052bf3da8137d2a.jpg",
+        photo=f"https://graph.org/file/608c9f342236df59ac595.jpg",
         caption=f"""**🙂You Are Not Sudo User So You Are Not Allowed To Clone Me.**\n**😌Click Given Below Button And Host Manually Otherwise Contact Owner Or Sudo Users For Clone.**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/SH251204/Musix-Management"
+                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/Rishu1286"
                     )
                 ]
             ]
