@@ -11,7 +11,7 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/THE-VIP-BOY-OP/count.svg" />
 </p>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/rishabhopi/PURVI_MUSIC&branch=main&name=purvibot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/rishabhopi/Vip_Musix_management&branch=main&name=VIPMUSIC)
 
 
 <h2 align="center">
